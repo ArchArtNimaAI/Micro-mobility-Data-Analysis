@@ -3,7 +3,7 @@
 ## Overview
 This project examines the utilization of micro-mobility services in Austin, Texas, and Chicago, USA. The study explores how these services can reduce the reliance on private vehicles for short-distance travel, promoting sustainable and inclusive urban transportation. The analysis uses data from public datasets and APIs, focusing on scooters, bicycles, and mopeds.
 Transport Innovation for a Sustainable, Inclusive, and Smart Mobility
-
+![image](https://github.com/user-attachments/assets/226f5e56-c350-468a-8fca-04a3c361d0c5)
 ## Key Features
 ### Data Sources:
 + Austin, Texas: Texas Open Data Portal
