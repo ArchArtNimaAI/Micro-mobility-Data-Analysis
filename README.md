@@ -11,6 +11,7 @@ Transport Innovation for a Sustainable, Inclusive, and Smart Mobility
 ### Data Cleaning and Analysis:
 + Handled missing and inconsistent data entries.
 + Analyzed usage trends and patterns over time.
+
 ![PA03](https://github.com/user-attachments/assets/a311adfe-120e-4d73-8ba2-c0e827f25d4b)
 ![image](https://github.com/user-attachments/assets/e18da2c3-3e96-41cc-ada7-f7fc239bf8d6)
 ![PA04](https://github.com/user-attachments/assets/64b4086b-7fa6-4383-9848-4a924d26211f)
