@@ -25,7 +25,7 @@ Transport Innovation for a Sustainable, Inclusive, and Smart Mobility
 ### Vehicle Utilization:
 + Evaluated the usage of different vehicle types (scooter, bicycle, moped).
 + Assessed the temporal trends in usage across different days and months.
-+ 
+
 ![image](https://github.com/user-attachments/assets/16e80ff3-e8e2-40a6-ae11-88d0053a4a51)
 
 ![image](https://github.com/user-attachments/assets/aa768e12-a453-42aa-ac5c-ed6993e8075e)
@@ -35,6 +35,6 @@ Transport Innovation for a Sustainable, Inclusive, and Smart Mobility
 ### Public Transport Integration:
 + Investigated the relationship between micro-mobility services and public transport usage.
 + Mapped starting and ending points of trips relative to public transport lines.
-+ 
+
 ![image](https://github.com/user-attachments/assets/b978cbd3-e9bd-46ca-9f79-f7ab8ecc23f4)
 ![image](https://github.com/user-attachments/assets/e9aad1df-22b7-478e-9995-3011085fae8c)
