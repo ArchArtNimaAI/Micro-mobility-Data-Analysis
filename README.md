@@ -5,15 +5,15 @@ This project examines the utilization of micro-mobility services in Austin, Texa
 Transport Innovation for a Sustainable, Inclusive, and Smart Mobility
 
 ## Key Features
--Data Sources:
-Austin, Texas: Texas Open Data Portal
-Chicago: Chicago Data Portal
-Data Cleaning and Analysis:
-Handled missing and inconsistent data entries.
-Analyzed usage trends and patterns over time.
-Vehicle Utilization:
-Evaluated the usage of different vehicle types (scooter, bicycle, moped).
-Assessed the temporal trends in usage across different days and months.
-Public Transport Integration:
-Investigated the relationship between micro-mobility services and public transport usage.
-Mapped starting and ending points of trips relative to public transport lines.
+### Data Sources:
++ Austin, Texas: Texas Open Data Portal
++ Chicago: Chicago Data Portal
+### Data Cleaning and Analysis:
++ Handled missing and inconsistent data entries.
++ Analyzed usage trends and patterns over time.
+### Vehicle Utilization:
++ Evaluated the usage of different vehicle types (scooter, bicycle, moped).
++ Assessed the temporal trends in usage across different days and months.
+### Public Transport Integration:
++ Investigated the relationship between micro-mobility services and public transport usage.
++ Mapped starting and ending points of trips relative to public transport lines.
