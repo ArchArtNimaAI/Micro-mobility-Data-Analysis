@@ -37,22 +37,14 @@ Most_data = new_data.groupby(["start_time"], as_index=False)["start_time"].size(
 Most_data = start_time_gp.sort_values(by=["size"], ascending=False)
 Most_data
 
-
 new_data_year = new_data.groupby(["year", "month", "start_time", "vehicle_type"], as_index= False).size()
-
 new_data_year
-
-
 gragh = new_data_year.groupby(["year", "month"]).size()
 gragh.plot(kind="bar", x="year", ylabel="size", y="size", xlabel= "year, month", color=[0.7,0.25,0.4])
 # gragh = new_data_year.plot(kind='bar', color="orange", x="year", y="size", xlabel= "year, month", ylabel= "size")
 
-
-<AxesSubplot:xlabel='year, month', ylabel='size'>
-
 unique_vehicle = new_data.groupby(["vehicle_type", "year"], as_index= False)["year"].size()
 unique_vehicle.sort_values(by="year")
-
 
 unique_vehicle["vehicle_type"] = unique_vehicle["vehicle_type"].astype(str) + "-" + unique_vehicle["year"].astype(str)
 v_gragh = unique_vehicle.plot(kind='bar', x="vehicle_type", color=[0.7,0.25,0.4], xlabel= "vehicle_type_year", ylabel= "size")
